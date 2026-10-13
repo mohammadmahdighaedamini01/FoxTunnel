@@ -26,10 +26,6 @@ Ready-to-install APKs are available on the [Releases](../../releases) page.
 - [ ] More UI customization options
 
 
-## Acknowledgements
-
-This project is based on the open-source [FoxyVPN](https://github.com/Vauth/FoxyVPN) by Vauth. Thanks to the original author and all contributors.
-
 ## License
 
 Add a license for your project (for example MIT) and place it in a `LICENSE` file.
